@@ -1,1 +1,25 @@
+xoxwa@LAPTOP-PH59NTMB MINGW64 ~/stat/TheDataShop (master)
+$ git config --global user.name "Wave879"
+
+xoxwa@LAPTOP-PH59NTMB MINGW64 ~/stat/TheDataShop (master)
+$ git config --global user.email "s65122251007@ssru.ac.th"
+
+xoxwa@LAPTOP-PH59NTMB MINGW64 ~/stat/TheDataShop (master)
+$ cd LabCSD2301
+bash: cd: LabCSD2301: No such file or directory
+
+xoxwa@LAPTOP-PH59NTMB MINGW64 ~/stat/TheDataShop (master)
+$ ls
+notes.txt
+
+xoxwa@LAPTOP-PH59NTMB MINGW64 ~/stat/TheDataShop (master)
+$ ls -a
+./  ../  .git/  notes.txt
+
+xoxwa@LAPTOP-PH59NTMB MINGW64 ~/stat/TheDataShop (master)
+$ git remote add origin https://github.com/Wave879/LabCSD2301.git
+
+xoxwa@LAPTOP-PH59NTMB MINGW64 ~/stat/TheDataShop (master)
+$ git push -u origin master
+
 
